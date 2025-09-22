@@ -44,11 +44,8 @@
 
 ---
 
-### 📊 Немного статистики
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakueB&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MakueB&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
 </p>
 
 ---
