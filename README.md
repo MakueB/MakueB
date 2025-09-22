@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter"/>
   </a>
   <a href="mailto:iam@makievmisha.ru">
-        <img src="https://img.shields.io/badge/Почта-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Mail"/>
+        <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Email"/>
   </a>
 </p>
 
